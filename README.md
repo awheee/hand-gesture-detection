@@ -43,27 +43,12 @@ This project demonstrates how computer vision can be used to build interactive, 
 
 ## 📊 Flowchart
 
-👉 <img width="496" height="321" alt="image" src="https://github.com/user-attachments/assets/0680a85a-375d-40ef-9c7f-f6bd05466449" />
+ <img width="496" height="321" alt="image" src="https://github.com/user-attachments/assets/0680a85a-375d-40ef-9c7f-f6bd05466449" />
 
 
 **Example flow:**
 
 Webcam → Hand Detection → Landmark Extraction → Finger Logic → Output
-
----
-
-## 📁 Project Structure
-
-hand-gesture-project/
-│
-├── src/
-│   ├── main.py
-│   ├── hand_tracker.py
-│   └── utils.py
-│
-├── outputs/
-├── requirements.txt
-└── README.md
 
 ---
 
@@ -106,30 +91,41 @@ python src/main.py
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/825cf4d0-633b-419e-a234-711839850bc9" />
 
 
-Examples:
-	•	Hand detection with landmarks
-	•	Finger count display
+---
 
-⸻
+## 📸 Examples
 
-⚠️ Limitations
-	•	Accuracy depends on lighting conditions
-	•	Thumb detection may vary with angle
-	•	Works best with a single hand
+- Hand detection with landmarks  
+- Finger count display  
 
-⸻
+---
 
-🔮 Future Improvements
-	•	Gesture recognition (👍 ✌️ 👊)
-	•	Multi-hand detection
-	•	Smoother predictions (reduce flickering)
-	•	GUI-based interface
+## ⚠️ Limitations
 
-⸻
+- Accuracy depends on lighting conditions  
+- Thumb detection may vary with angle  
+- Works best with a single hand  
 
-🧠 Conclusion
+---
+
+## 🔮 Future Improvements
+
+- Gesture recognition (👍 ✌️ 👊)  
+- Multi-hand detection  
+- Smoother predictions (reduce flickering)  
+- GUI-based interface  
+
+---
+
+## 🧠 Conclusion
 
 This project showcases the power of computer vision in building real-time interactive systems. By combining OpenCV and MediaPipe, it is possible to create efficient gesture recognition systems without the need for large datasets or complex training processes.
+
+---
+
+## ⭐ If you like this project
+
+Give it a star on GitHub ⭐
 
 ⸻
 
