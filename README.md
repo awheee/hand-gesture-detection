@@ -1,8 +1,8 @@
-✋ Hand Gesture Number Detection using OpenCV & MediaPipe
+# ✋ Hand Gesture Number Detection using OpenCV & MediaPipe
 
-⸻
+---
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is a real-time hand gesture recognition system that detects and counts the number of fingers shown using a webcam.
 
@@ -10,48 +10,49 @@ It uses OpenCV for video capture and MediaPipe for hand landmark detection. The 
 
 This project demonstrates how computer vision can be used to build interactive, real-time applications without requiring any training dataset.
 
-⸻
+---
 
-🚀 Features
+## 🚀 Features
 
-	•	🎥 Real-time webcam detection
-	•	✋ Hand landmark tracking (21 key points)
-	•	🔢 Finger counting (0–5)
-	•	⚡ Fast and lightweight
-	•	🧠 No dataset or training required
+- 🎥 Real-time webcam detection  
+- ✋ Hand landmark tracking (21 key points)  
+- 🔢 Finger counting (0–5)  
+- ⚡ Fast and lightweight  
+- 🧠 No dataset or training required  
 
-⸻
+---
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-	•	Python
-	•	OpenCV
-	•	MediaPipe
+- Python  
+- OpenCV  
+- MediaPipe  
 
-⸻
+---
 
-🧠 How It Works
-	1.	Capture video using webcam
-	2.	Convert frames to RGB
-	3.	Detect hand using MediaPipe
-	4.	Extract hand landmarks
-	5.	Apply logic to determine finger positions
-	6.	Count and display number of fingers
+## 🧠 How It Works
 
-⸻
+1. Capture video using webcam  
+2. Convert frames to RGB  
+3. Detect hand using MediaPipe  
+4. Extract hand landmarks  
+5. Apply logic to determine finger positions  
+6. Count and display number of fingers  
 
-📊 Flowchart
+---
 
-👉 (Add flowchart image here)
+## 📊 Flowchart
 
-Example flow:
+👉 <img width="496" height="321" alt="image" src="https://github.com/user-attachments/assets/0680a85a-375d-40ef-9c7f-f6bd05466449" />
+
+
+**Example flow:**
 
 Webcam → Hand Detection → Landmark Extraction → Finger Logic → Output
 
+---
 
-⸻
-
-📁 Project Structure
+## 📁 Project Structure
 
 hand-gesture-project/
 │
@@ -64,39 +65,37 @@ hand-gesture-project/
 ├── requirements.txt
 └── README.md
 
+---
 
-⸻
+## 🛠️ Installation & Setup
 
-🛠️ Installation & Setup
-
-1. Clone the repository
+### 1. Clone the repository
 
 git clone https://github.com/YOUR_USERNAME/hand-gesture-detection.git
 cd hand-gesture-detection
 
-2. Create virtual environment
+### 2. Create virtual environment
 
 python3 -m venv venv
 source venv/bin/activate
 
-3. Install dependencies
+### 3. Install dependencies
 
 pip install -r requirements.txt
 
+---
 
-⸻
-
-▶️ Run the Project
+## ▶️ Run the Project
 
 python src/main.py
 
+---
 
-⸻
+## 🎥 Usage
 
-🎥 Usage
-	•	Show your hand in front of the webcam
-	•	Extend fingers (0–5)
-	•	The system will display the detected number
+- Show your hand in front of the webcam  
+- Extend fingers (0–5)  
+- The system will display the detected number  
 
 ⸻
 
