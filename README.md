@@ -23,6 +23,7 @@ This project demonstrates how computer vision can be used to build interactive, 
 ⸻
 
 ⚙️ Tech Stack
+
 	•	Python
 	•	OpenCV
 	•	MediaPipe
