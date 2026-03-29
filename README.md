@@ -13,6 +13,7 @@ This project demonstrates how computer vision can be used to build interactive, 
 ⸻
 
 🚀 Features
+
 	•	🎥 Real-time webcam detection
 	•	✋ Hand landmark tracking (21 key points)
 	•	🔢 Finger counting (0–5)
