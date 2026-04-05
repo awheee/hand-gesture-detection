@@ -123,7 +123,7 @@ This project showcases the power of computer vision in building real-time intera
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
 Give it a star on GitHub ⭐
 
