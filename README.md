@@ -121,7 +121,7 @@ python src/main.py
 
 This project showcases the power of computer vision in building real-time interactive systems. By combining OpenCV and MediaPipe, it is possible to create efficient gesture recognition systems without the need for large datasets or complex training processes.
 
----
+----
 
 ## If you like this project
 
